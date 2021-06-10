@@ -1,0 +1,12 @@
+{
+  "swagger" : "2.0",
+  "info" : {
+    "description" : "test",
+    "version" : "1.0.0",
+    "title" : "Capstone"
+  },
+  "host" : "virtserver.swaggerhub.com",
+  "basePath" : "/tjxglobal/cap/1.0.0",
+  "schemes" : [ "https" ],
+  "paths" : { }
+}
